@@ -5,7 +5,7 @@
  
    int main()
    {
-       string fullName;
+       string fullName,fullName2;
       cout << "Enter your full name\n";
       cin >> fullName;      
 
